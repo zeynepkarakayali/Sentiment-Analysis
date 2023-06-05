@@ -20,6 +20,7 @@ settings = {
 labels = ['Surprise', 'Neutral', 'Anger', 'Happy', 'Sad']
 
 model = tf.keras.models.load_model("network-5Labels.h5")
+##total datanin paslanacagi dictionary
 durumSet = {
 	'Surprise' : [],
 	'Neutral' : [],
@@ -27,8 +28,11 @@ durumSet = {
 	'Happy' : [],
 	'Sad' : [],
 }
+##her frame'in sentiment datasini tutan list
 durum = []
+##deneme yaparken kullanilan list
 value = []
+##her frame'in sentiment puanini tutan list
 valueMax = []
 while True:
 	ret, img = camera.read()
