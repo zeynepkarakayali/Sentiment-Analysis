@@ -6,7 +6,7 @@ This project aims to perform sentiment analysis on videos related to the Kahrama
 ******
 ## Videos Used
 The following videos were used for sentiment analysis:
-
+[![Kahramanmaraş Depremi Cüneyt Özdemir](https://www.gifyoutube.com/watch?v=NJJhyuqqo2o&ab_channel=C%C3%BCneyt%C3%96zdemir)](https://www.youtube.com/watch?v=NJJhyuqqo2o&ab_channel=C%C3%BCneyt%C3%96zdemir)
 
 ## Getting Started
 
