@@ -1,0 +1,10 @@
+# dataset as photos
+datasetAsPhotos.zip 
+
+# required files for the project
+haar_cascade_face_detection.xml
+network-5Labels.h5
+
+# output files
+cikti.xlsx
+output.csv
